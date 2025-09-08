@@ -16,4 +16,4 @@
 ## 🚀 Установка
 ```bash
 pip install pyqt5 opencv-python numpy psutil keyboard pyvirtualcam pillow
-python KruGoZor_11_4.py
+python KruGoZor_11_5.py
