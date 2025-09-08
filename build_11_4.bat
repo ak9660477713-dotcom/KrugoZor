@@ -12,7 +12,7 @@ if exist "%~dp0python.exe" set "PYTHON=%~dp0python.exe"
 if "%PYTHON%"=="" set "PYTHON=py"
 
 :: Имена файлов
-set "PRIMARY_SCRIPT=KruGoZor_11_4.py"
+set "PRIMARY_SCRIPT=KruGoZor_11_5.py"
 set "FALLBACK_SCRIPT=KruGoZor_11_3.py"
 set "ICON=icon.ico"
 set "APPNAME=KruGoZor"
@@ -75,3 +75,4 @@ echo.
 echo [OK] Готово! Файл: dist\%APPNAME%.exe
 echo.
 pause
+
