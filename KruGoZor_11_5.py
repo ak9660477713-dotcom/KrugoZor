@@ -38,7 +38,7 @@ from PyQt5.QtWidgets import (
 )
 
 APP_NAME = "КругоЗор"
-APP_VERSION = "11.4 - 25.08.2025"
+APP_VERSION = "11.5 - 25.08.2025"
 CONTACT = "Андрей Кудлай @akudlay_ru"
 
 # --- Виртуальная камера ----
@@ -1511,3 +1511,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
